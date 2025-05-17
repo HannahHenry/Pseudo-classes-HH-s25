@@ -1,0 +1,17 @@
+.nav-menu.practice a:hover {
+    background-color: #89b8e1 ; /* your hover color */
+    transform: translateX(10px);
+}
+
+.nav-menu.practice a:active {
+    background-color: #c880c7 !important; /* darker active color */
+}
+
+.nav-menu.practice a:first-child {
+    background-color: #f8fa06; /* your unique color */
+}
+
+.nav-menu.practice a:last-child {
+    background-color: #1a7006; /* another unique color */
+}
+            
